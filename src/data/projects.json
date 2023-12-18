@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Tic Tac Toe game",
+      "imageSrc": "projects/Tictactoe.png",
+      "description": "This is a fun Tic Tac Toe game that can be enjoyed with people.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://tictact0egame.netlify.app/",
+      "source": "https://github.com/TaiwoOnileowo/Tic-Tac-Toe-game"
+    },
+    {
+      "title": "VueLamp Company Responsive landing page",
+      "imageSrc": "projects/Vuelampwebsite.png",
+      "description": "This is a resonsive landing page for Vuelamp company.",
+      "skills":["HTML", "CSS", "Javascript"],
+      "demo": "https://vuelamp-company-landingpage.netlify.app/",
+      "source": "https://github.com/TaiwoOnileowo/VueLamp-Company-Responsive-Landing-page"
+    },
+    {
+      "title": "Newsletter sign up",
+      "imageSrc": "projects/newsletter.png",
+      "description": "This is a newsletter sign up with a success page",
+      "skills": ["HTML", "CSS", "CSS grid","Javascript"],
+      "demo": "https://newsletter-s1gn-up.netlify.app/",
+      "source": "https://github.com/TaiwoOnileowo/Newsletter-sign-up"
+    },
+    {
+      "title": "Add to cart app",
+      "imageSrc": "projects/addtocartapp.png",
+      "description": "A simple web application for managing a shopping list with Firebase Realtime Database integration.",
+      "skills": ["HTML", "CSS","Javascript","Firebase"],
+      "demo": "https://add-t0-cart.netlify.app/",
+      "source": "https://github.com/TaiwoOnileowo/Add-To-Cart-App"
+    }
+  ]
